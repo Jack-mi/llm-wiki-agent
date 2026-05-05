@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+*.egg-info/
+.pytest_cache/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# 用户个人内容（不提交到 repo）
+raw/*
+!raw/.gitkeep
+wiki/*
+!wiki/index.md
+!wiki/log.md
+!wiki/overview.md
+
+# 自动生成的文件
+graph/*.html
+wiki/*-report.md
+*.log
+
+# 环境变量
+.env
+.env.local
