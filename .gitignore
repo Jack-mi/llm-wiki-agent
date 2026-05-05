@@ -24,9 +24,6 @@ build/
 raw/*
 !raw/.gitkeep
 wiki/*
-!wiki/index.md
-!wiki/log.md
-!wiki/overview.md
 
 # 自动生成的文件
 graph/*.html
