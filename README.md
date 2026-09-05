@@ -24,6 +24,12 @@ graph/
 └── graph.html        interactive vis.js visualization — open in any browser
 ```
 
+## Related Projects
+
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Add AI image & video generation to your knowledge base pipeline
+- [Open-AI-Design-Agent](https://github.com/Anil-matcha/Open-AI-Design-Agent) — Autonomous AI design agent — pair with wiki agent for research + visual output
+- [AI-Voice-Agent](https://github.com/Anil-matcha/AI-Voice-Agent) — Self-hosted AI voice agent for real-time voice conversations, sales calls, and customer support
+
 ## Install
 
 **Requires:** [Claude Code](https://claude.ai/code), [Codex](https://openai.com/codex), [Gemini CLI](https://github.com/google-gemini/gemini-cli), or any agent that reads a config file.
@@ -299,7 +305,7 @@ NetworkX + Louvain + Claude + vis.js. No server, no database, runs entirely loca
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=SamurAIGPT/llm-wiki-agent&type=Date)](https://star-history.com/#SamurAIGPT/llm-wiki-agent&Date)
+[![Star History Chart](assets/star-history.svg)](https://github.com/SamurAIGPT/llm-wiki-agent/stargazers)
 
 ## License
 
